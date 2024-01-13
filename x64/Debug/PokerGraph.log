@@ -1,0 +1,184 @@
+﻿  main.cpp
+D:\курсач кпо\PokerGraph\main.cpp(56,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\курсач кпо\PokerGraph\main.cpp(89,73): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(89,35): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(335,100): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(335,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(614,30): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(622,32): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(625,54): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(625,36): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(626,55): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(626,41): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(627,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(627,35): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(628,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(628,36): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(630,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(631,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(640,45): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(640,29): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(642,41): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(642,25): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(660,46): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(660,33): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(1041,102): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(1041,67): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\курсач кпо\PokerGraph\main.cpp(1155,17): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+  PokerGraph.vcxproj -> D:\курсач кпо\PokerGraph\x64\Debug\PokerGraph.exe
